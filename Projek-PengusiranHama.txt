@@ -1,0 +1,5 @@
+Membuat Deskripsi projek yang kita buat
+Membuat rancangan desain sistem 
+Mengumpulkan komponen yang diperlukan dalam projek
+Merangkai komponen projek dan membuat programnya  
+Melakukan pengetesan pada projek dan melakukan evaluasi

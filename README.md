@@ -1,1 +1,1 @@
-# Projek-Pengusiranhama
+# Projek-Sistem Pengusiranhama otomatis berbasis mikrokontroler AVR 

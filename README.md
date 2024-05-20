@@ -17,5 +17,7 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 
 ---
 ## Gambar Desain 3D
+![WhatsApp Image 2024-05-14 at 09 17 57 (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5291be6f-e928-441b-8287-0be4fe102cee)
+
 
 

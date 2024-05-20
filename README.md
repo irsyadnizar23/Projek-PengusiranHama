@@ -15,3 +15,7 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 
 ![Simulasi di wokwi](https://wokwi.com/projects/398364886795561985)
 
+---
+## Gambar Desain 3D
+
+

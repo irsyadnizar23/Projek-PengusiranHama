@@ -19,13 +19,9 @@ Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menur
 ![Blog  Diagram Hama drawio (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e277846e-b06b-4b21-aa07-40b1cbcde06f)
 
 ---
-## Desain 3D
-
---
 ## Simulasi projek
 Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
-
-
+![simulasi di wokwi (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/4f32a8e1-5674-4c84-8562-ea72835ad898)
 
 ![Simulasi di wokwi](https://wokwi.com/projects/398310246027706369)
 

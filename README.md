@@ -1,7 +1,7 @@
-# Projek-Sistem Pengusiranhama otomatis berbasis mikrokontroler AVR 
+## Projek-Sistem Pengusiranhama otomatis berbasis mikrokontroler AVR 
 
 Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menurunkan produktivitas. Untuk mengatasi masalah ini, saya mencoba mengembangkan sebuah sistem pengusiran hama otomatis berbasis mikrokontroler AVR. Sistem ini dirancang untuk mendeteksi keberadaan hama secara otomatis dan mengusir hama tersebut dengan metode yang efektif dan ramah lingkungan
----
+
 ## Komponen / alat yang diperlukan
 ---
 1. Arduino Uno

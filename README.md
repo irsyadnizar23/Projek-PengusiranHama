@@ -23,7 +23,7 @@ Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menur
 Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 ![simulasi di wokwi (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/4f32a8e1-5674-4c84-8562-ea72835ad898)
 
-![Simulasi di wokwi](https://wokwi.com/projects/398310246027706369)
+![Simulasi di wokwi] (https://wokwi.com/projects/398310246027706369)
 
 ---
 ## Gambar Desain 3D

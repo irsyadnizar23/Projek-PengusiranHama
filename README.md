@@ -13,6 +13,8 @@ Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menur
 ---
 ## Skematik projek
 ![SCHEM BARU (4) (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/6a33a635-bfe6-4d5b-a37d-b35cba1cc12a)
+![gambar schematik (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/882154b1-b774-43ad-a62c-a23035c45d2f)
+
 
 ---
 ## Blog diagram

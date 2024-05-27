@@ -6,15 +6,26 @@ Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menur
 ## Komponen / alat yang diperlukan
 1. Arduino Uno
 2. Led 3mm
-3. Speaker / buzzer
-4. push Button
+3. Speaker
+4. push Button(2)
 5. Sensor sw 420
-6. dll
+6. PAM 8403
+7. Pin Header male dan female
+8. resistor 1k
+
 ---
 ## Skematik projek
-![SCHEM BARU (4) (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/6a33a635-bfe6-4d5b-a37d-b35cba1cc12a)
+Schematik
 ![gambar schematik (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/882154b1-b774-43ad-a62c-a23035c45d2f)
 
+Board
+![Board (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/123f0080-6911-4621-b931-e5ad13746b6c)
+
+Bottom
+![Sch pengusir hama pcb BOTTOM](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/659ae527-050a-4b4c-864e-293da0b7ead7)
+
+Top
+![Sch pengusir hama pcb TOP](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/37c9e058-6059-437e-a106-7deaae68a30b)
 
 ---
 ## Blog diagram

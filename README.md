@@ -30,7 +30,14 @@ Top
 ---
 ## Blog diagram
 ![Blog  Diagram Hama drawio (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e277846e-b06b-4b21-aa07-40b1cbcde06f)
+Cara Kerja
 
+1. Saat ada Tikus atau Burung Pipit yang melewati atau menyentuh Padi Akan Membuat Padi Bergerak/bergetar
+2. Getaran Dari Padi akan Di Deteksi Oleh Sensor Getar dan menghasilkan Sinyal Yang akan di kirim ke Mikrokontroler
+3. Setelah Sinyal dari Sensor getar Di Terima oleh Mikrokontroler Maka Akan Membuat Led Menyala 
+4. Dimana Disini LED sebagai Indikator Keberadaan Hama, Dimana Petani Dapat Menekan tombol (Button) seusai LED menyala yang akan Mengaktifkan Suara Pengusir Hama
+5. Suara Output dari Mikrokontroler akan Di kuatkan Oleh Amplifier (penguat), Yang mana Suara Akan di keluarkan pada Speaker 
+6. lalu Suara Yang akan di Keluarkan adalah Suara Hewan Buas contohnya Harimau, yang mana akan mengusir Tikus Dan Burung Pipit dari Tumbuhan Padi
 ---
 ## Simulasi projek
 Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi

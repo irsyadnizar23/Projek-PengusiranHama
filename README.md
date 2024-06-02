@@ -78,6 +78,7 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
    5. Export audio ke bentuk RAW
 <img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/98a209a3-080a-48d0-b7b9-c622ceb452aa">
 
+
    6. Buka aplikasi HXD
    7. Klik open lalu pilih file RAW yang telah kita ekspor dari audacity
 <img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/15dfcc4c-df52-44b1-9898-82e6d77a5f27">

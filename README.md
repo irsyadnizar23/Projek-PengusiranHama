@@ -3,7 +3,17 @@
 
 Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menurunkan produktivitas. Untuk mengatasi masalah ini, saya mencoba mengembangkan sebuah sistem pengusiran hama otomatis berbasis mikrokontroler AVR. Sistem ini dirancang untuk mendeteksi keberadaan hama secara otomatis dan mengusir hama tersebut dengan metode yang efektif dan ramah lingkungan
 
+---
+Anggota
+1. Rizal Fadhillah Muhammad (2122500032)
+2. Samuel Windez Ambarita (2122500036)
+3. Muhammad Irsyad Nizar Fazari (2122500050)
+4. Nyoman Darma Saputra (2122500053)
+5. Nashry Haliim Risantosa (2122500054)
+---
 ## Komponen / alat yang diperlukan
+![Komponen](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5fb60bcb-52cc-47f8-9034-b85d39c70da2)
+
 1. Arduino Uno
 2. Led 3mm
 3. Speaker
@@ -36,7 +46,7 @@ Cara Kerja
 1. Saat ada Tikus atau Burung Pipit yang melewati atau menyentuh Padi Akan Membuat Padi Bergerak/bergetar
 2. Getaran Dari Padi akan Di Deteksi Oleh Sensor Getar dan menghasilkan Sinyal Yang akan di kirim ke Mikrokontroler
 3. Setelah Sinyal dari Sensor getar Di Terima oleh Mikrokontroler Maka Akan Membuat Led Menyala 
-4. Dimana Disini LED sebagai Indikator Keberadaan Hama, Dimana Petani Dapat Menekan tombol (Button) seusai LED menyala yang akan Mengaktifkan Suara Pengusir Hama
+4. Dimana Disini LED sebagai Indikator terdapat Keberadaan Hama, Dimana Petani Dapat Menekan tombol (Button) seusai LED menyala yang akan Mengaktifkan Suara Pengusir Hama
 5. Suara Output dari Mikrokontroler akan Di kuatkan Oleh Amplifier (penguat), Yang mana Suara Akan di keluarkan pada Speaker 
 6. lalu Suara Yang akan di Keluarkan adalah Suara Hewan Buas contohnya Harimau, yang mana akan mengusir Tikus Dan Burung Pipit dari Tumbuhan Padi
 ---
@@ -52,6 +62,31 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 
 
 ![File projek ke Blend] https://github.com/irsyadnizar23/Projek-PengusiranHama/blob/main/Desain%203D/File/File%20Alat%20pengusir%20Hama%20dengan%20aplikasi%20blend.blend
+
+## Hasil cetak PCB
+![PCB jadi](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/caa92b92-980c-40c2-a705-7ee4716ad887)
+
+## Sistem audio
+
+
+
+## Proses pengerjaan 
+1. Mencoba sistem pada wokwi
+
+2. Membuat desain 3d
+
+3. Membuat shematik dan Board pada software eagle
+
+4. pembelian komponen komponen yang diperlukan
+
+5. Mensolder komponen pada PCB
+
+6. Membuat rekaman audio pada audacity dan HXD
+
+7. Membuat program pada arduino menggunakan arduino ide
+
+8. Pengujian alat
+
 
 
 

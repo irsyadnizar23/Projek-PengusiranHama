@@ -74,8 +74,10 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
    2. Rekam suara atau dapat ambil audio dari web
    3. Setelah melakukan perekaman audio akan menghasilkan seperti dibawah ini
 <img width="960" alt="sebelum diset noise nya" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/3861e563-bcba-45a7-ab11-f007b2620bb5">
+
    4. Setelah diset noise nya agar pada audio tidak terdapat sebuah noise
   <img width="960" alt="foto saat memasukkan audio pada audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/8d39aa9f-4902-49c0-8d48-3de542ba20f2">
+  
    5. Export audio ke bentuk RAW
 <img width="960" alt="export file audio ke bentuk RAW" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/ddbfb209-371a-412e-9439-a4c2a2797b73">
   

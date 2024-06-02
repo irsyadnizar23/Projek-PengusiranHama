@@ -79,14 +79,17 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
   <img width="960" alt="foto saat memasukkan audio pada audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/8d39aa9f-4902-49c0-8d48-3de542ba20f2">
   
    5. Export audio ke bentuk RAW
-<img width="960" alt="export file audio ke bentuk RAW" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/ddbfb209-371a-412e-9439-a4c2a2797b73">
+   <img width="960" alt="export file audio ke bentuk RAW" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/ddbfb209-371a-412e-9439-a4c2a2797b73">
+  
+   6. Buka aplikasi HXD
+   7. Klik open lalu pilih file RAW yang telah kita ekspor dari audacity
+   <img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/15dfcc4c-df52-44b1-9898-82e6d77a5f27">
+ 
+   8. lalu klik file lalu pilih export ke C, selanjutnya buka vs code pilih file yang telah kita export dari HXD
+<img width="765" alt="program audio di vscode" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/dcf3253d-66e4-4f4c-8622-9e2738bf6c3d">
+
   
 
-   7. Buka aplikasi HXD
-   8. Klik open lalu pilih file RAW yang telah kita ekspor dari audacity  
-<img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/15dfcc4c-df52-44b1-9898-82e6d77a5f27">
-   9.  lalu klik file lalu pilih export ke C, selanjutnya buka vs code pilih file yang telah kita export dari HXD
-<img width="765" alt="program audio di vscode" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/8054094a-dc2c-4cac-9da0-c8a63c6282ca">
 
 ## Proses pengerjaan 
 1. Mencoba sistem pada wokwi

@@ -67,7 +67,23 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 ![PCB jadi](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/caa92b92-980c-40c2-a705-7ee4716ad887)
 
 ## Sistem audio
+Disini untuk pembuatan audio kita menggunakan software audacity dan HXD yang kita gunakan untuk merekam hasil suara rekaman kita atau suara yang telah kita download bebrbentuk mp3
+Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
+   1. Buka aplikasi audacity
+   2. Rekam suara atau dapat ambil audio dari web
+   3. Setelah melakukan perekaman audio akan menghasilkan seperti dibawah ini
+    
+   4. Setelah diset noise nya agar pada audio tidak terdapat sebuah noise
+<img width="960" alt="foto saat memasukkan audio pada audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/cf032f5f-0f1d-4fc0-9144-a3cda52f95e0">
+   5. Export audio ke bentuk RAW
 
+   6. Buka aplikasi HXD
+   7. Klik open lalu pilih file RAW yang telah kita ekspor dari audacity
+<img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/15dfcc4c-df52-44b1-9898-82e6d77a5f27">
+   8. lalu klik file lalu pilih export ke C, selanjutnya buka vs code pilih file yang telah kita export dari HXD 
+  <img width="765" alt="program audio di vscode" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/8054094a-dc2c-4cac-9da0-c8a63c6282ca">
+
+      
 
 
 ## Proses pengerjaan 

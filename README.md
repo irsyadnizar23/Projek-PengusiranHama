@@ -75,10 +75,10 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 <img width="960" alt="sebelum diset noise nya" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/3861e563-bcba-45a7-ab11-f007b2620bb5">
    4. Setelah diset noise nya agar pada audio tidak terdapat sebuah noise
       
-<img width="960" alt="foto saat memasukkan audio pada audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/cf032f5f-0f1d-4fc0-9144-a3cda52f95e0">
+   <img width="960" alt="foto saat memasukkan audio pada audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/cf032f5f-0f1d-4fc0-9144-a3cda52f95e0">
    5. Export audio ke bentuk RAW
    
-<img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/98a209a3-080a-48d0-b7b9-c622ceb452aa">
+   <img width="959" alt="bentuk RAW hasil dari audacity" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/98a209a3-080a-48d0-b7b9-c622ceb452aa">
 
 
    6. Buka aplikasi HXD

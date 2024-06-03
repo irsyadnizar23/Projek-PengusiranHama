@@ -12,7 +12,8 @@ Anggota
 5. Nashry Haliim Risantosa (2122500054)
 ---
 ## Komponen / alat yang diperlukan
-![Komponen](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5fb60bcb-52cc-47f8-9034-b85d39c70da2)
+![komponen (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/82e4f71f-da53-4c56-a634-b979b894d169)
+
 
 1. Arduino Uno
 2. Led 3mm
@@ -22,6 +23,7 @@ Anggota
 6. PAM 8403
 7. Pin Header male dan female
 8. resistor 1k
+9. Tip31c
 
 ---
 ## Skematik projek

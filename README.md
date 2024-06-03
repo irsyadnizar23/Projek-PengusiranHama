@@ -94,22 +94,27 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
   LINK AUDACITY
   https://youtu.be/fRlAp86dA1M?si=hetPyFKCUFnrN079
   
-## Proses pengerjaan 
+## Dokumentasi Proses pengerjaan 
 1. Mencoba sistem pada wokwi
 
 2. Membuat desain 3d
+![3d desain](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/6fdcf2ea-cbf3-4007-82e8-b9c84960a5c5)
 
 3. Membuat shematik dan Board pada software eagle
 
 4. pembelian komponen komponen yang diperlukan
+![komponen (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/3f1a4e43-b936-4ad9-8090-9b111e3a80ac)
 
 5. Mensolder komponen pada PCB
 
 6. Pembentukan casing menggunakan bor
+![pembentukan casing menggunkan bor](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5810cc0d-0c8f-4b0f-8899-abff3b0d9605)
 
 7. Membuat rekaman audio pada audacity dan HXD
+![pembuatan audio](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/751dc919-0dd5-4192-819b-89ae100a7557)
 
 8. Membuat program pada arduino menggunakan arduino ide
+![pembuatan program arduino](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/70e3e1fe-7266-4722-a4f5-5f07f2195544)
 
 9. Pengujian alat
 

@@ -88,8 +88,8 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
    8. lalu klik file lalu pilih export ke C, selanjutnya buka vs code pilih file yang telah kita export dari HXD
 <img width="765" alt="program audio di vscode" src="https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/dcf3253d-66e4-4f4c-8622-9e2738bf6c3d">
 
-  
-
+  LINK AUDACITY
+  https://youtu.be/fRlAp86dA1M?si=hetPyFKCUFnrN079
 
 ## Proses pengerjaan 
 1. Mencoba sistem pada wokwi

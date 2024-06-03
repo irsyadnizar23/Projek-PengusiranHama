@@ -55,7 +55,7 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 ![simulasi di wokwi (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/4f32a8e1-5674-4c84-8562-ea72835ad898)
 
 ![Simulasi di wokwi] (https://wokwi.com/projects/398310246027706369)
-
+LINK (https://youtu.be/nzQVdEaNT4E?si=r3UM6CYokPurmcue)
 ---
 ## Gambar Desain 3D
 ![WhatsApp Image 2024-05-14 at 09 17 57 (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5291be6f-e928-441b-8287-0be4fe102cee)
@@ -90,7 +90,7 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 
   LINK AUDACITY
   https://youtu.be/fRlAp86dA1M?si=hetPyFKCUFnrN079
-
+  
 ## Proses pengerjaan 
 1. Mencoba sistem pada wokwi
 

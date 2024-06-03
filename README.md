@@ -1,5 +1,6 @@
 # Projek-Sistem Pengusiran hama otomatis berbasis mikrokontroler AVR 
-![banner (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/8efb477f-d5e4-4955-8644-db39d9274031)
+![banner](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e25dc312-565f-49ab-a219-4e9d0ef7242b)
+
 
 Serangan hama dapat menyebabkan kerusakan yang signifikan pada tanaman dan menurunkan produktivitas. Untuk mengatasi masalah ini, saya mencoba mengembangkan sebuah sistem pengusiran hama otomatis berbasis mikrokontroler AVR. Sistem ini dirancang untuk mendeteksi keberadaan hama secara otomatis dan mengusir hama tersebut dengan metode yang efektif dan ramah lingkungan
 

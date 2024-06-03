@@ -105,11 +105,13 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 
 5. Mensolder komponen pada PCB
 
-6. Membuat rekaman audio pada audacity dan HXD
+6. Pembentukan casing menggunakan bor
 
-7. Membuat program pada arduino menggunakan arduino ide
+7. Membuat rekaman audio pada audacity dan HXD
 
-8. Pengujian alat
+8. Membuat program pada arduino menggunakan arduino ide
+
+9. Pengujian alat
 
 
 

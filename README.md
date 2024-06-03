@@ -18,20 +18,32 @@ Anggota
 
 1. Arduino Uno:
 
-Mikrokontroler AVR bertindak sebagai otak dari sistem ini. Mikrokontroler akan menerima input dari sensor hama dan memproses data tersebut jika terdeteksi adanya aktivitas hama
+   Mikrokontroler AVR bertindak sebagai otak dari sistem ini. Mikrokontroler akan menerima input dari sensor hama dan memproses data tersebut jika terdeteksi adanya       aktivitas hama
 
 2. Led 3mm
-Sebagai indikator kepada para petani ketika hama datang menyerang 
+
+   Sebagai indikator kepada para petani ketika hama datang menyerang 
+
 3. Speaker
-Sebagai output suara dari hasil rekaman suara audacity kita  yang dapat didengar ketika kita menekan push button  
+
+   Sebagai output suara dari hasil rekaman suara audacity kita  yang dapat didengar ketika kita menekan push button  
+
 4. push Button(2)
-Push button kita menggunakan 2 push button yang push button pertama digunakan sebagai tombol untuk mengeluarkan suara hewan binatang buas dan push button kedua digunakan sebagai suara ultrasonik dengan frekuensi tinggi 
+
+   Push button kita menggunakan 2 push button yang push button pertama digunakan sebagai tombol untuk mengeluarkan suara hewan binatang buas dan push button kedua          digunakan sebagai suara ultrasonik dengan frekuensi tinggi 
+
 5. Sensor sw 420
-sensor getaran yang digunakan untukMendeteksi keberadaan hama yang masuk di area pertanian dan mengirimkan sinyal ke mikrokontroler
+
+   sensor getaran yang digunakan untukMendeteksi keberadaan hama yang masuk di area pertanian dan mengirimkan sinyal ke mikrokontroler
+
 6. PAM 8403
-Digunakan untuk menghasilkan output suara yang cukup keras dengan konsumsi daya yang rendah.
+
+   Digunakan untuk menghasilkan output suara yang cukup keras dengan konsumsi daya yang rendah.
+
 7. Pin Header male dan female
-sebagai soket tempat menghubungkan kabel-kabel konektor 
+
+   sebagai soket tempat menghubungkan kabel-kabel konektor 
+
 8. resistor 1k
 9. Tip31c
 

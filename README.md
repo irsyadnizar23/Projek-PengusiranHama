@@ -16,7 +16,7 @@ Anggota
 ![komponen (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/82e4f71f-da53-4c56-a634-b979b894d169)
 
 
-1. Arduino Uno:
+1. Arduino Uno
 
    Mikrokontroler AVR bertindak sebagai otak dari sistem ini. Mikrokontroler akan menerima input dari sensor hama dan memproses data tersebut jika terdeteksi adanya       aktivitas hama
 

@@ -106,6 +106,7 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 ![komponen (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/3f1a4e43-b936-4ad9-8090-9b111e3a80ac)
 
 5. Mensolder komponen pada PCB
+![penyolderan](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/ae9eb877-aed1-4451-a2c4-a713eadf102e)
 
 6. Pembentukan casing menggunakan bor
 ![pembentukan casing menggunkan bor](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5810cc0d-0c8f-4b0f-8899-abff3b0d9605)

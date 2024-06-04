@@ -109,6 +109,7 @@ Link Youtube
 (https://youtu.be/AhoeIHWYmVM?si=7fZwOTttmSZrGxfX)
 
 ![File projek ke Blend] https://github.com/irsyadnizar23/Projek-PengusiranHama/blob/main/Desain%203D/File/File%20Alat%20pengusir%20Hama%20dengan%20aplikasi%20blend.blend
+[Uploading alat pengusir hama new (1).blend…]()
 
 ## Hasil cetak PCB
 ![PCB jadi](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/caa92b92-980c-40c2-a705-7ee4716ad887)

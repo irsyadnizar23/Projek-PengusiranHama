@@ -108,11 +108,7 @@ Hasil akhir
 Link Youtube
 (https://youtu.be/AhoeIHWYmVM?si=7fZwOTttmSZrGxfX)
 
-![Uploading alat pengu<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Blender, SVG Export for Grease Pencil - v1.0 -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.0" x="0px" y="0px" xmlns="http://www.w3.org/2000/svg" width="1920px" height="1080px" viewBox="0 0 1920 1080" />
-sir hama new (1).svg…]()
+![Uploading 3d Desain] https://github.com/irsyadnizar23/Projek-PengusiranHama/blob/main/Desain%203D/File/alat%20pengusir%20hama%20new%20(1).blend
 
 
 ## Hasil cetak PCB

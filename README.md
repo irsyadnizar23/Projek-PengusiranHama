@@ -61,6 +61,7 @@ Bottom
 Top
 ![Sch pengusir hama pcb TOP](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/37c9e058-6059-437e-a106-7deaae68a30b)
 
+LInk (https://youtu.be/SObbZaz81MM)
 ---
 ## Blog diagram
 ![Blog  Diagram Hama drawio (2)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e277846e-b06b-4b21-aa07-40b1cbcde06f)
@@ -79,6 +80,7 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 ![simulasi di wokwi (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/4f32a8e1-5674-4c84-8562-ea72835ad898)
 
 ![Simulasi di wokwi] (https://wokwi.com/projects/398310246027706369)
+
 LINK (https://youtu.be/nzQVdEaNT4E?si=r3UM6CYokPurmcue)
 ---
 ## Gambar Desain 3D

@@ -163,6 +163,9 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 
 9. Pengujian alat
 
+Link simulasi 
+
+(https://youtu.be/wmhCAvP-0ZI)
 
 
 

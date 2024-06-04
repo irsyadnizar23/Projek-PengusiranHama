@@ -1,4 +1,4 @@
-![alat pengusir hama new (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/70b49392-b778-4eb6-aeb4-e7d4ade44fee)# Projek-Sistem Pengusiran hama otomatis berbasis mikrokontroler AVR 
+![POSTER ALAT PENGUSIR HAMA (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/169033700/82af79fe-cceb-44db-9030-6dfb7c2610f2)![alat pengusir hama new (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/70b49392-b778-4eb6-aeb4-e7d4ade44fee)# Projek-Sistem Pengusiran hama otomatis berbasis mikrokontroler AVR 
 ![banner](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e25dc312-565f-49ab-a219-4e9d0ef7242b)
 
 
@@ -167,6 +167,11 @@ Berikut langkah langkah mengkonversi audio dari audacity hingga menjadi bahasa C
 Link simulasi 
 
 (https://youtu.be/wmhCAvP-0ZI)
+
+## Flyer
+![POSTER ALAT PENGUSIR HAMA (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/169033700/cd1e0741-336d-4ece-9deb-817aa78e5819)
+
+
 
 
 

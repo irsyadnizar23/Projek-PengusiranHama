@@ -1,4 +1,4 @@
-# Projek-Sistem Pengusiran hama otomatis berbasis mikrokontroler AVR 
+![alat pengusir hama new (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/70b49392-b778-4eb6-aeb4-e7d4ade44fee)# Projek-Sistem Pengusiran hama otomatis berbasis mikrokontroler AVR 
 ![banner](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/e25dc312-565f-49ab-a219-4e9d0ef7242b)
 
 
@@ -108,8 +108,12 @@ Hasil akhir
 Link Youtube
 (https://youtu.be/AhoeIHWYmVM?si=7fZwOTttmSZrGxfX)
 
-![File projek ke Blend] https://github.com/irsyadnizar23/Projek-PengusiranHama/blob/main/Desain%203D/File/File%20Alat%20pengusir%20Hama%20dengan%20aplikasi%20blend.blend
-[Uploading alat pengusir hama new (1).blend…]()
+![Uploading alat pengu<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Blender, SVG Export for Grease Pencil - v1.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.0" x="0px" y="0px" xmlns="http://www.w3.org/2000/svg" width="1920px" height="1080px" viewBox="0 0 1920 1080" />
+sir hama new (1).svg…]()
+
 
 ## Hasil cetak PCB
 ![PCB jadi](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/caa92b92-980c-40c2-a705-7ee4716ad887)

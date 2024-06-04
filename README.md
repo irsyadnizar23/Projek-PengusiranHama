@@ -84,7 +84,26 @@ Disini kita coba mensimulasikan dengan menggunakan aplikasi wokwi
 LINK (https://youtu.be/nzQVdEaNT4E?si=r3UM6CYokPurmcue)
 ---
 ## Gambar Desain 3D
-![WhatsApp Image 2024-05-14 at 09 17 57 (1)](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/5291be6f-e928-441b-8287-0be4fe102cee)
+Tampak depan
+
+![depan](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/7fe5b8cb-fe34-4292-8188-57e21feb8652)
+
+Tampak samping
+
+![samping](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/a34713c0-39f1-4a60-a315-8b582064d297)
+
+Tampak dalam
+
+![dalam](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/c8248232-78f4-4502-b250-8cc5549087b7)
+
+Hasil akhir 
+
+![rancangan akhir](https://github.com/irsyadnizar23/Projek-PengusiranHama/assets/168854830/7ea49195-82ad-44a9-a98f-62ab8246d593)
+
+
+
+
+
 
 
 ![File projek ke Blend] https://github.com/irsyadnizar23/Projek-PengusiranHama/blob/main/Desain%203D/File/File%20Alat%20pengusir%20Hama%20dengan%20aplikasi%20blend.blend
